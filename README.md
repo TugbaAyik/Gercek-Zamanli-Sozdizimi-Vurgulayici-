@@ -6,7 +6,7 @@ Projede öncelikle lexer (sözcüksel analizci) geliştirilmiştir. Bu lexer, ol
 Daha sonra, parser modülü ile dilin gramerine uygun cümle yapıları doğrulanmıştır. Örneğin bir atama ifadesi, önce "var" kelimesi, sonra bir değişken ismi, ardından "=" ve bir ifade ile tanımlanmalıdır. İfade yapıları için özyineli (recursive descent) analiz uygulanmıştır.
 
 <br>
-<img width="184" alt="image" src="images/Ekran görüntüsü 2025-06-06 175929.png" />
+<img width="400" alt="image" src="images/Ekran görüntüsü 2025-06-06 175929.png" />
 <br>
 
 # Gerçekleştirim
