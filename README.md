@@ -7,6 +7,8 @@ Daha sonra, parser modülü ile dilin gramerine uygun cümle yapıları doğrula
 # Gerçekleştirim
 Kodlama Python 3 ile yapılmıştır. Kullanıcı arayüzü için Tkinter kütüphanesi tercih edilmiştir. Ana pencerede bir metin kutusu bulunmakta ve kullanıcının her yazdığı karakter sonrasında lexer ve parser çalışmaktadır.
 Doğru yazılan anahtar kelimeler yeşil, ifadeler mavi renkte vurgulanmakta; sözdizimsel hatalar ise kırmızı altı çizili şekilde görüntülenmektedir. Örneğin eksik tırnağı olan bir string ya da kapanmamış bir parantez anlık olarak tespit edilip belirtilmektedir.
+# Videosu
+https://youtu.be/874nrnJCpPs
 # Sonuç ve Değerlendirme
 Bu proje ile, kodlama süreci sırasında yapılan hataların anlık olarak fark edilebilmesi sağlanmıştır.Sistem, küçük ve basit diller için etkili bir öğretim aracı olarak tasarlanmıştır. 
 # Kaynaklar
